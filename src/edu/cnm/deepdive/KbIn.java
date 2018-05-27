@@ -1,4 +1,4 @@
-// Read a character from the keyboard.
+package edu.cnm.deepdive;// Read a character from the keyboard.
 
 
 public class KbIn {
