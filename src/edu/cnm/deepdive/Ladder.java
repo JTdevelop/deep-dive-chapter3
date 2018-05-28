@@ -1,5 +1,5 @@
 
-// Donstrate and if-else-if ladder.
+// Demonstrate an if-else-if ladder.
 package edu.cnm.deepdive;
 
 public class Ladder {
